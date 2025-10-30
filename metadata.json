@@ -1,0 +1,5 @@
+{
+  "name": "🔥 Chess Master engine+analyse V7(Engine Upgrade)",
+  "description": "An offline chess application that replicates the Chess.com UI, allowing a player to play against the computer or another player. Features offline gameplay and a clean interface.",
+  "requestFramePermissions": []
+}
